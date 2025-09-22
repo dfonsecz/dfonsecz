@@ -24,10 +24,4 @@ Here are some ideas to get you started:
 
 ### Embedded Systems
 WIP
-### Machine Learning
-WIP
-### Digital Design
-WIP
-### Communications
-WIP
 
