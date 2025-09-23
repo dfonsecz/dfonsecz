@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 ## 🔭 Some of my projects
 
 ### Embedded Systems
-WIP
+- Freescale HCS12 Microcontroller
 
