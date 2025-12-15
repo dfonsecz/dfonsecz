@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 ## 🔭 Some of my projects
 
 ### Embedded Systems
+
 #### Freescale HCS12 Microcontroller
 - [Assignments](https://github.com/dfonsecz/IE0623-Microprocesadores)
 - [Final Project: Velodrome](https://github.com/dfonsecz/Velodromo-623.git)
+
+#### Computer Vision
+- [Jetson Nano Vigilance System](https://github.com/dfonsecz/DeepStream-Vigilance-System)
