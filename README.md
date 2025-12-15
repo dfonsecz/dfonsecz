@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 ### Embedded Systems
 
 #### Freescale HCS12 Microcontroller
-- [Assignments](https://github.com/dfonsecz/IE0623-Microprocesadores)
 - [Final Project: Velodrome](https://github.com/dfonsecz/Velodromo-623.git)
 
 #### Computer Vision
@@ -33,5 +32,5 @@ Here are some ideas to get you started:
 
 ### Digital Design
 
-#### FPGA Projects
+#### FPGA Nexys A7 100T
 - [Temperature Monitor](https://github.com/dfonsecz/Monitor-Temperatura)
