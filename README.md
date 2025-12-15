@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 ## 🔭 Some of my projects
 
 ### Embedded Systems
-- [Freescale HCS12 Microcontroller](https://github.com/dfonsecz/IE0623-Microprocesadores)
-
+#### Freescale HCS12 Microcontroller
+- [Assignments](https://github.com/dfonsecz/IE0623-Microprocesadores)
+- [Final Project: Velodrome](https://github.com/dfonsecz/Velodromo-623.git)
