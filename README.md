@@ -30,3 +30,8 @@ Here are some ideas to get you started:
 
 #### Computer Vision
 - [Jetson Nano Vigilance System](https://github.com/dfonsecz/DeepStream-Vigilance-System)
+
+### Digital Design
+
+#### FPGA Projects
+- [Temperature Monitor](https://github.com/dfonsecz/Monitor-Temperatura)
